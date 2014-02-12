@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root head="/etc/declarers/OWNet">
+  <item name="OWNetServ" value="/OWNetClient;component/Images/OWNet_Serv.png" saved="True" type="System.String">
+    <item name="remove" value="ZD" saved="True" type="System.String" />
+  </item>
+  <item name="OWNet_Dev" value="/OWNetClient;component/Images/OWNet_Dev.png" saved="True" type="System.String">
+    <item name="remove" value="ZD" saved="True" type="System.String" />
+  </item>
+  <item name="OWNet_T" value="/OWNetClient;component/Images/OWNet_T.png" saved="True" type="System.String">
+    <item name="remove" value="ZD" saved="True" type="System.String" />
+  </item>
+  <item name="OWNet_H" value="/OWNetClient;component/Images/OWNet_H.png" saved="True" type="System.String">
+    <item name="remove" value="ZD" saved="True" type="System.String" />
+  </item>
+  
+</root>
