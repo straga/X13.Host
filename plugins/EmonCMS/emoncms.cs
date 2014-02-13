@@ -112,7 +112,7 @@ namespace X13.PLC
                 string string_put;
                 string_put = emonurl + "?node="+ node +"&json={" + feedId + ":" + sample + "}&apikey=" + apiKey;
                
-                Log.Info("Emon string_put: ({0})", string_put);
+                Log.Debug("Emon string_put: ({0})", string_put);
                
                 var request = (HttpWebRequest)WebRequest.Create(string_put);
                 // request line
